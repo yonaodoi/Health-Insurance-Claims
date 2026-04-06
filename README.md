@@ -1,4 +1,4 @@
-This is my Health Insurance Claims Project, where I used SQL and Tableau BI to clean, analyze, and visualize health insurance claims data. I built one comprehensive dashboard that brings together four key areas of analysis:
+This is my Health Insurance Claims Project, where I used SQL and Tableau BI tool to clean, analyze, and visualize health insurance claims data. I built one comprehensive dashboard that brings together four key areas of analysis:
 
 Cost Drivers: I explored which claim types, providers, or patient groups contribute most to overall costs.
 
